@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(
+    90deg,
+    #ffd1dc,  /* Light pink (red) */
+    #ffe4b5,  /* Moccasin (orange) */
+    #ffffe0,  /* Light yellow */
+    #d0f0c0,  /* Tea green (light green) */
+    #add8e6,  /* Light blue */
+    #dcd0ff,  /* Lavender (indigo) */
+    #f5e1f7   /* Lavender blush (violet) */
+  );
+  background-size: cover;
+  font-family: Arial, sans-serif;
+}
